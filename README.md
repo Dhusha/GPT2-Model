@@ -1,6 +1,6 @@
 # GUVI GPT2 Model Using Hugging Face
 
-This project demonstrates the development of a custom GPT model fine-tuned on GUVI-specific data using the streamlit Web application, and its deployment through Hugging Face Transformers library.
+This project demonstrates the development of a custom GPT model fine-tuned on GUVI-specific data, using the Streamlit web application, and its deployment through the Hugging Face Transformers library.
 
 My Hugging Face Link - https://huggingface.co/spaces/TpsNandhini/FinalProject
 
@@ -71,3 +71,18 @@ Prepare comprehensive documentation outlining:
    - Setup
    - Deployment
    - Usage instructions
+
+## Learnings/Outcomes of thix project:
+This project provided valuable insights into the process of developing and deploying a custom GPT model. Key learnings include:
+
+1. **Data Preparation and Fine-Tuning**: Fine-tuning a GPT model on GUVI-specific data allowed for more relevant and accurate outputs tailored to specific needs. The importance of quality data and appropriate preprocessing cannot be overstated.
+
+2. **Streamlit for Interactive Applications**: Utilizing Streamlit for creating the web application demonstrated the ease and efficiency with which interactive and user-friendly interfaces can be built. Streamlit’s simplicity and integration capabilities significantly streamlined the development process.
+
+3. **Deployment with Hugging Face Transformers:** Deploying the model through the Hugging Face Transformers library highlighted the power and flexibility of this platform. It provided a seamless way to host and share the model, making it accessible for real-world applications.
+
+4. **Challenges and Solutions:** Throughout the project, various challenges were encountered, including data inconsistencies and model performance issues. Addressing these challenges through iterative testing and validation reinforced the importance of robust problem-solving skills.
+
+5. **Future Improvements:** There are always areas for improvement, such as expanding the dataset, experimenting with different model architectures, and enhancing the user interface. These improvements could further optimize the model's performance and usability.
+
+
