@@ -72,7 +72,7 @@ Prepare comprehensive documentation outlining:
    - Deployment
    - Usage instructions
 
-## Learnings/Outcomes of thix project:
+## Learnings/Outcomes of this project:
 This project provided valuable insights into the process of developing and deploying a custom GPT model. Key learnings include:
 
 1. **Data Preparation and Fine-Tuning**: Fine-tuning a GPT model on GUVI-specific data allowed for more relevant and accurate outputs tailored to specific needs. The importance of quality data and appropriate preprocessing cannot be overstated.
