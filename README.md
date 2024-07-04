@@ -2,7 +2,7 @@
 
 This project demonstrates the development of a custom GPT model fine-tuned on GUVI-specific data, using the Streamlit web application, and its deployment through the Hugging Face Transformers library.
 
-My Hugging Face Link - https://huggingface.co/spaces/TpsNandhini/FinalProject
+🌟 Unlock the Power of AI Creativity with Guvi GPT-2! 🚀 - https://huggingface.co/spaces/TpsNandhini/Guvi_GPT2
 
 ## Table of Contents
 - [Project Overview](#project-overview)
