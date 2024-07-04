@@ -1,3 +1,6 @@
-Transformers
 streamlit
+mysql-connector-python
+bcrypt
 torch
+transformers
+pytz
